@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PointCard</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">password</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="point">Point:</string>
+    <string name="qr">QR</string>
+    <string name="start_scan">start_scan</string>
+</resources>

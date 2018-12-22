@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93562809942",
+    "firebase_url": "https://pointcard-8e49b.firebaseio.com",
+    "project_id": "pointcard-8e49b",
+    "storage_bucket": "pointcard-8e49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93562809942:android:ff3e014a7b2282f6",
+        "android_client_info": {
+          "package_name": "com.pointcard.pointcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93562809942-jfe4ktjaicmgadm8077atneqjhke7oeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pointcard.pointcard",
+            "certificate_hash": "66dfc70a824f44cbaff7b5011107c88e02a6514d"
+          }
+        },
+        {
+          "client_id": "93562809942-ompmfbnbhjhgaslnocs9qvjamvlddpog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJif7reFGIJ2wlRKjMSTGXEzgWNsrqCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93562809942-ompmfbnbhjhgaslnocs9qvjamvlddpog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
