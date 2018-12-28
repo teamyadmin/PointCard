@@ -17,14 +17,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Initialize Firebase Auth
         auth = FirebaseAuth.getInstance()
 
         val buttonSignUp = findViewById<Button>(R.id.SignUpButton)
         val buttonLogin = findViewById<Button>(R.id.LoginButton)
 
         buttonSignUp.setOnClickListener {
-            //妥当かどうか
             var isValid = true
 
             val emailEditText = findViewById<EditText>(R.id.emailEditText)
